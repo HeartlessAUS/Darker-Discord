@@ -54,7 +54,7 @@
 	}
  
 	.mentioned-xhSam7{
-		background: linear-gradient(90deg, var(--thirdDarky), var(--thirdDarky), var(--secondDarky)) !important;
+		background: linear-gradient(90deg, var(--thirdDarky), var(--thirdDarky), var(--secondDarky));
 	}
 	
 	.expandedFolderBackground-2sPsd-, 
