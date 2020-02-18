@@ -50,7 +50,7 @@
 	 
 	.mentioned-xhSam7:before{
 		width: 15px;
-		background: linear-gradient(90deg, var(--accent), var(--thirdDarky)) !important;
+		background-color: var(--accent);
 	}
  
 	.mentioned-xhSam7{
