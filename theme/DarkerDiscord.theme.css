@@ -1,5 +1,5 @@
 //META{"name":"DarkerDiscord","description":"Darker Discord, Something goes here..","author":"Hearty","version":"1.0"}*//
-@import url('https://heartlessaus.github.io/DarkDiscord/base.css');
+@import url('https://heartlessaus.github.io/DarkDiscord/base/base.css');
 :root {
 	--fullDarky: rgb(0,0,0);
 	--mainDarky: rgb(23, 23, 23);
