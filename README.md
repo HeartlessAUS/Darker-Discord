@@ -4,7 +4,7 @@
 
 ### + includes auto updater using an imported css via GitHub.
 If you run into issues regarding the theme please first reload discord to see if the problems have already been fixed via the above.
-Sometimes, in rare cases, discord wont reload external css, if this happens pleas ebe patient until discord reloads caches.
+Sometimes, in rare cases, discord wont reload external css, if this happens please be patient until discord reloads caches.
 
 
 [Get the most recent release here](https://raw.githubusercontent.com/HeartlessAUS/DarkDiscord/master/theme/DarkerDiscord.theme.css)    
