@@ -1,6 +1,6 @@
 # Darker Discord
 
-## Created for BandagedBD
+# Created for BandagedBD
 
 ## + includes auto updater using a imported css via GitHub.
 ### If you run into issues regarding the theme please first reload discord to see if the problems have already been fixed via the above.
