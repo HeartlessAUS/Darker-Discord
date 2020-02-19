@@ -1,9 +1,10 @@
-//META{"name":"DarkerDiscord","description":"Darker Discord, Something goes here..","author":"Hearty","version":"1.0"}*//
-@import url('https://heartlessaus.github.io/DarkDiscord/base/base.css');
+//META{"name":"DarkerDiscord","description":"Darker Discord, Something goes here..","author":"Hearty","version":"1.1"}*//
+@import url('https://heartlessaus.github.io/Darker-Discord/base/base.css');
 :root {
 	--fullDarky: rgb(0,0,0);
 	--mainDarky: rgb(23, 23, 23);
 	--secondDarky: rgb(30, 30, 30);
 	--thirdDarky: rgb(40,40,40);
 	--accent: rgb(100, 100, 100);
+	--lowAccent: rgb(30,30,30);
 }
