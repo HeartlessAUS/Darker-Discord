@@ -2,6 +2,10 @@
 
 ## Created for BandagedBD
 
+Discord, it works pretty well, but lets be honest, their color choices for dark mode are pretty gross.
+This theme is what I think the dark mode SHOULD have been, it's no pure black, but it looks nice then a constant gross grey.
+Along with the new dark look, this theme will be used for a couple experimental features I would like to try.
+
 ### + includes auto updater using an imported css via GitHub.
 If you run into issues regarding the theme please first reload discord to see if the problems have already been fixed via the above.
 Sometimes, in rare cases, discord wont reload external css, if this happens please be patient until discord reloads caches.
