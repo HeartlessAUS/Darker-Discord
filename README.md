@@ -13,4 +13,8 @@ Sometimes, in rare cases, discord wont reload external css, if this happens plea
 ### To install:
 
 1. Control + S, And save it in your Better Discord Theme Folder (Usually in: C:\Users\[username]\AppData\Roaming\BetterDiscord\themes).
-2. Load the theme withing BD Theme tab.
+2. Load the theme within the BD Theme tab.
+
+### Pictures:
+
+Coming soon...
