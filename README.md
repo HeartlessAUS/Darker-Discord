@@ -13,7 +13,7 @@ Sometimes, in rare cases, discord wont reload external css, if this happens plea
 
 
 [Get the most recent release here](https://raw.githubusercontent.com/HeartlessAUS/DarkDiscord/master/theme/DarkerDiscord.theme.css)    
-(updated last on 19/02/2020 || Version 1.1)
+(updated last on 19/02/2020 || Version 1.1.1)
 
 ### To install:
 
