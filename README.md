@@ -18,3 +18,15 @@ Sometimes, in rare cases, discord wont reload external css, if this happens plea
 ### Pictures:
 
 Coming soon...
+
+
+### Todo:
+
+* Search tab
+* Settings tab
+* User tab / popout
+* Emoji Tab
+* Status Tab / Visibility
+* Small Animations
+* Perfomance boosts
+* Code cleaning / Dejunk
